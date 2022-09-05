@@ -3,3 +3,5 @@ this is master
 this is master newly ade:wd
 
 this is child branch changes
+
+this master class changes:wq
