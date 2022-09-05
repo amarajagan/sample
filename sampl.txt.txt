@@ -1,8 +1,1 @@
-this is master master changes
-
-this is child branch changes
-
-
-this is child branch changes part 2
-
-this master cla:wq
+this is child class changes
