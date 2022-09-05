@@ -1,6 +1,4 @@
-this is master
-
-this is master newly ade:wd
+this is master master changes
 
 this is child branch changes
 
