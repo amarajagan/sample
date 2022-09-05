@@ -5,4 +5,4 @@ this is child branch changes
 
 this is child branch changes part 2
 
-this master class changes:wq
+this master cla:wq
